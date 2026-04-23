@@ -56,8 +56,3 @@ body {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .logo-loop-track {
-    animation: none;
-  }
-}
