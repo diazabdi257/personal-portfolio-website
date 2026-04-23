@@ -29,19 +29,11 @@ export const educationHistory: EducationItem[] = [
 
 export const certifications: CertificationItem[] = [
   {
-    title: "React Developer Fundamentals",
-    issuer: "Dicoding",
-    year: "2024",
+    title: "EPrT (English Proficiency Test)",
+    issuer: "Telkom University Language Center",
+    year: "2025",
     summary:
-      "Memahami komponen, state management dasar, dan praktik pengembangan antarmuka React modern.",
-    proofPdf: "/cv-diaz-abdi.pdf",
-  },
-  {
-    title: "Database Design Essentials",
-    issuer: "MySkill",
-    year: "2023",
-    summary:
-      "Mempelajari normalisasi database, relasi tabel, dan optimasi query untuk kebutuhan aplikasi.",
-    proofPdf: "/cv-diaz-abdi.pdf",
+      "Tes kemampuan bahasa Inggris resmi yang dikembangkan oleh Telkom University Language Center untuk mengukur kecakapan berbahasa Inggris.",
+    proofPdf: "/sertifikat_eprt.pdf",
   },
 ];
